@@ -39,7 +39,7 @@ I'm a senior software developer and team lead with about nine years of experienc
 and maintaining production .NET applications. Most of my day sits between C# services,
 SQL Server, and Angular front ends.
 
-The other half of my attention goes to AI — not as a novelty, but as part of how the work
+The other half of my attention goes to AI, not as a novelty, but as part of how the work
 actually gets done. I develop with AI assistance daily and I'm building retrieval-augmented
 systems where grounding and citation matter more than fluency, because an answer you can't
 trace back to a source isn't much of an answer.
