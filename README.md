@@ -107,8 +107,8 @@ are both public if you want to see how the project is run.
 
 <div align="center">
 
-<img src="https://YOUR-INSTANCE.vercel.app/api?username=jkhaynes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&ring_color=EBA0AC&border_radius=10" height="165" alt="GitHub stats" />
-<img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=jkhaynes&layout=compact&langs_count=6&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&border_radius=10&exclude_repo=MegaProjectList,Projects-Solutions,BasicShell,TimeWolf" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-ecru-three-54.vercel.app/api?username=jkhaynes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&ring_color=EBA0AC&border_radius=10" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-ecru-three-54.vercel.app/api/top-langs/?username=jkhaynes&layout=compact&langs_count=6&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&border_radius=10&exclude_repo=MegaProjectList,Projects-Solutions,BasicShell,TimeWolf" height="165" alt="Top languages" />
 
 </div>
 
