@@ -102,15 +102,6 @@ are both public if you want to see how the project is run.
 
 <br />
 
-<!--
-  ─────────────────────────────────────────────────────────────
-  STATS SECTION — disabled.
-  github-readme-stats.vercel.app (the free public instance) is
-  frequently over quota or paused, which renders these as broken
-  images. To re-enable: fork github.com/anuraghazra/github-readme-stats,
-  deploy it to your own Vercel account, then swap the hostname below
-  for your deployment and delete these comment markers.
-  ─────────────────────────────────────────────────────────────
 
 ## <img src="https://img.shields.io/badge/-F5C2E7?style=flat-square" height="14" alt="" /> Stats
 
@@ -120,7 +111,6 @@ are both public if you want to see how the project is run.
 <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=jkhaynes&layout=compact&langs_count=6&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&border_radius=10&exclude_repo=MegaProjectList,Projects-Solutions,BasicShell,TimeWolf" height="165" alt="Top languages" />
 
 </div>
--->
 
 <br />
 
