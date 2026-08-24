@@ -95,10 +95,10 @@ a model's best guess.
 An internal picking and fulfillment tool for a card shop, replacing printed invoices with a
 responsive PWA: order claiming so pickers don't collide, set-aware grouping that matches the
 physical shelves, and loud treatment of the details that cause mis-picks. ASP.NET Core, React,
-EF Core, Azure SQL. Currently in product definition and technical discovery — the
+EF Core, Azure SQL. Built spec-first with AI in the loop — the
 [PRD](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/prd/Loot_Singles_Fulfillment_PRD_v0.3.md)
 and the [AI-assisted development workflow](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/development/ai-assisted-development-workflow.md)
-are both public if you want to see how I run a spec-first project with AI in the loop.
+are both public if you want to see how the project is run.
 
 <br />
 
