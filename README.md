@@ -47,7 +47,7 @@ trace back to a source isn't much of an answer.
 - Leading a small engineering team and staying hands-on in the codebase
 - Working on RAG systems: retrieval quality, grounding, and cited output
 - AI-assisted development as a daily practice, not an experiment
-- Based in Michigan · open to senior full-stack and AI-adjacent roles
+- Based in Michigan · open to senior full-stack, back-end, and AI-adjacent roles
 
 <br />
 
