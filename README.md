@@ -22,8 +22,11 @@
 <a href="https://linkedin.com/in/jesshaynes">
   <img src="https://img.shields.io/badge/LinkedIn-F5C2E7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn" />
 </a>
+<a href="https://jessbuilds.dev">
+  <img src="https://img.shields.io/badge/jessbuilds.dev-EBA0AC?style=for-the-badge&logo=safari&logoColor=1E1E2E" alt="Portfolio" />
+</a>
 <a href="mailto:jkhaynes2390@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F2CDCD?style=for-the-badge&logo=maildotru&logoColor=1E1E2E" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-F2CDCD?style=for-the-badge&logo=gmail&logoColor=1E1E2E" alt="Email" />
 </a>
 
 </div>
@@ -57,10 +60,15 @@ trace back to a source isn't much of an answer.
   <img src="https://img.shields.io/badge/SQL%20Server-F38BA8?style=for-the-badge&logo=microsoftsqlserver&logoColor=1E1E2E" alt="SQL Server" />
 </p>
 <p>
+  <img src="https://img.shields.io/badge/EF%20Core-F5E0DC?style=for-the-badge&logo=dotnet&logoColor=1E1E2E" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/Azure-F2CDCD?style=for-the-badge&logo=microsoftazure&logoColor=1E1E2E" alt="Azure" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Angular-F5E0DC?style=for-the-badge&logo=angular&logoColor=1E1E2E" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-F5C2E7?style=for-the-badge&logo=typescript&logoColor=1E1E2E" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-EBA0AC?style=for-the-badge&logo=javascript&logoColor=1E1E2E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F2CDCD?style=for-the-badge&logo=git&logoColor=1E1E2E" alt="Git" />
+  <img src="https://img.shields.io/badge/React-F5C2E7?style=for-the-badge&logo=react&logoColor=1E1E2E" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-EBA0AC?style=for-the-badge&logo=typescript&logoColor=1E1E2E" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F2CDCD?style=for-the-badge&logo=javascript&logoColor=1E1E2E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F38BA8?style=for-the-badge&logo=git&logoColor=1E1E2E" alt="Git" />
 </p>
 
 ## <img src="https://img.shields.io/badge/-F5E0DC?style=flat-square" height="14" alt="" /> AI in my workflow
@@ -76,31 +84,43 @@ trace back to a source isn't much of an answer.
 
 ## <img src="https://img.shields.io/badge/-F38BA8?style=flat-square" height="14" alt="" /> Selected work
 
-<p>
-<a href="https://github.com/jkhaynes/PokeJudge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkhaynes&repo=PokeJudge&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&border_color=45475A&border_radius=10" alt="PokeJudge" />
-</a>
-<a href="https://github.com/jkhaynes/loot-singles-fulfillment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkhaynes&repo=loot-singles-fulfillment&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&border_color=45475A&border_radius=10" alt="Loot Singles Fulfillment" />
-</a>
-</p>
+#### [PokéJudge](https://github.com/jkhaynes/PokeJudge) &nbsp;<img src="https://img.shields.io/badge/C%23-F5C2E7?style=flat-square&logo=csharp&logoColor=1E1E2E" alt="C#" /> <img src="https://img.shields.io/badge/RAG-EBA0AC?style=flat-square" alt="RAG" />
 
-**PokéJudge** — AI decision-support for Pokémon TCG judges. Grounded rule retrieval,
-clarifying questions, and cited recommendations, so a ruling traces back to the actual
-rules text rather than to a model's best guess.
+AI decision-support for Pokémon TCG judges. Grounded rule retrieval, clarifying questions,
+and cited recommendations, so a ruling traces back to the actual rules text rather than to
+a model's best guess.
 
-**Loot Singles Fulfillment** — ONE-LINE DESCRIPTION HERE.
+#### [Loot Singles Fulfillment](https://github.com/jkhaynes/loot-singles-fulfillment) &nbsp;<img src="https://img.shields.io/badge/C%23-F5C2E7?style=flat-square&logo=csharp&logoColor=1E1E2E" alt="C#" /> <img src="https://img.shields.io/badge/React-EBA0AC?style=flat-square&logo=react&logoColor=1E1E2E" alt="React" /> <img src="https://img.shields.io/badge/Azure-F2CDCD?style=flat-square&logo=microsoftazure&logoColor=1E1E2E" alt="Azure" />
+
+An internal picking and fulfillment tool for a card shop, replacing printed invoices with a
+responsive PWA: order claiming so pickers don't collide, set-aware grouping that matches the
+physical shelves, and loud treatment of the details that cause mis-picks. ASP.NET Core, React,
+EF Core, Azure SQL. Currently in product definition and technical discovery — the
+[PRD](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/prd/Loot_Singles_Fulfillment_PRD_v0.3.md)
+and the [AI-assisted development workflow](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/development/ai-assisted-development-workflow.md)
+are both public if you want to see how I run a spec-first project with AI in the loop.
 
 <br />
+
+<!--
+  ─────────────────────────────────────────────────────────────
+  STATS SECTION — disabled.
+  github-readme-stats.vercel.app (the free public instance) is
+  frequently over quota or paused, which renders these as broken
+  images. To re-enable: fork github.com/anuraghazra/github-readme-stats,
+  deploy it to your own Vercel account, then swap the hostname below
+  for your deployment and delete these comment markers.
+  ─────────────────────────────────────────────────────────────
 
 ## <img src="https://img.shields.io/badge/-F5C2E7?style=flat-square" height="14" alt="" /> Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jkhaynes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&ring_color=EBA0AC&border_radius=10" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkhaynes&layout=compact&langs_count=6&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&border_radius=10&exclude_repo=MegaProjectList,Projects-Solutions,BasicShell,TimeWolf" height="165" alt="Top languages" />
+<img src="https://YOUR-INSTANCE.vercel.app/api?username=jkhaynes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&ring_color=EBA0AC&border_radius=10" height="165" alt="GitHub stats" />
+<img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=jkhaynes&layout=compact&langs_count=6&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&border_radius=10&exclude_repo=MegaProjectList,Projects-Solutions,BasicShell,TimeWolf" height="165" alt="Top languages" />
 
 </div>
+-->
 
 <br />
 
