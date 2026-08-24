@@ -19,10 +19,10 @@
 
 <br />
 
-<a href="https://linkedin.com/in/YOUR-HANDLE">
+<a href="https://linkedin.com/in/jesshaynes">
   <img src="https://img.shields.io/badge/LinkedIn-F5C2E7?style=for-the-badge&logo=linkedin&logoColor=1E1E2E" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR-EMAIL">
+<a href="mailto:jkhaynes2390@gmail.com">
   <img src="https://img.shields.io/badge/Email-F2CDCD?style=for-the-badge&logo=maildotru&logoColor=1E1E2E" alt="Email" />
 </a>
 
@@ -80,8 +80,8 @@ trace back to a source isn't much of an answer.
 <a href="https://github.com/jkhaynes/PokeJudge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkhaynes&repo=PokeJudge&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&border_color=45475A&border_radius=10" alt="PokeJudge" />
 </a>
-<a href="https://github.com/jkhaynes/REPO-NAME-HERE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkhaynes&repo=REPO-NAME-HERE&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&border_color=45475A&border_radius=10" alt="Loot Singles Fulfillment" />
+<a href="https://github.com/jkhaynes/loot-singles-fulfillment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jkhaynes&repo=loot-singles-fulfillment&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&border_color=45475A&border_radius=10" alt="Loot Singles Fulfillment" />
 </a>
 </p>
 
