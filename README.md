@@ -76,6 +76,7 @@ trace back to a source isn't much of an answer.
 <p>
   <img src="https://img.shields.io/badge/Claude%20Code-F38BA8?style=for-the-badge&logo=claude&logoColor=1E1E2E" alt="Claude Code" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-F5C2E7?style=for-the-badge&logo=githubcopilot&logoColor=1E1E2E" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Codex-F5E0DC?style=for-the-badge&logoColor=1E1E2E" />
   <img src="https://img.shields.io/badge/RAG-EBA0AC?style=for-the-badge&logo=databricks&logoColor=1E1E2E" alt="RAG" />
   <img src="https://img.shields.io/badge/Vector%20Search-F2CDCD?style=for-the-badge&logo=pinecone&logoColor=1E1E2E" alt="Vector search" />
 </p>
