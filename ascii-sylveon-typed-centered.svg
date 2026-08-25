@@ -1,0 +1,4161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="515" height="710" viewBox="0 0 515 710" role="img" aria-label="Looping typed Sylveon ASCII art">
+<style>
+  .prompt {
+    font-family: "Cascadia Mono","SFMono-Regular",Consolas,"Liberation Mono",monospace;
+    font-size: 16px;
+    fill: #D98CB3;
+    text-anchor: middle;
+  }
+  .art {
+    font-family: "Cascadia Mono","SFMono-Regular",Consolas,"Liberation Mono",monospace;
+    font-size: 17px;
+    fill: #F3C4E3;
+  }
+  .cursor {
+    fill: #B98BCB;
+  }
+</style>
+
+<g>
+  <animate attributeName="opacity"
+           values="1;1;0;0;1"
+           keyTimes="0;0.8375;0.8938;0.99;1"
+           dur="8.0s"
+           repeatCount="indefinite"/>
+  <text x="257.5" y="30" class="prompt">jess@github ~ $ summon sylveon</text>
+
+  <rect x="412.5" y="18" width="10" height="16" rx="1" class="cursor">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="109.6" y="64.0" class="art" opacity="0">⡤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.08737;0.08750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="64.0" class="art" opacity="0">⢤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.08805;0.08818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="64.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.08873;0.08886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="84.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.08941;0.08953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="84.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09009;0.09021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="84.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09076;0.09089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="84.0" class="art" opacity="0">⣳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09144;0.09157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="84.0" class="art" opacity="0">⠔
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09212;0.09225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="84.0" class="art" opacity="0">⠊
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09280;0.09292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="84.0" class="art" opacity="0">⢉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09348;0.09360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="84.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09415;0.09428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="104.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09483;0.09496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="104.0" class="art" opacity="0">⡎
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09551;0.09564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="104.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09619;0.09631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="104.0" class="art" opacity="0">⠔
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09687;0.09699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="104.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09754;0.09767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="104.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09822;0.09835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="104.0" class="art" opacity="0">⣎
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09890;0.09903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="104.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.09958;0.09970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="104.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10026;0.10038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="104.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10093;0.10106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="124.0" class="art" opacity="0">⡸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10161;0.10174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="124.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10229;0.10242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="124.0" class="art" opacity="0">⠾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10297;0.10309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="124.0" class="art" opacity="0">⣅
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10365;0.10377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="124.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10432;0.10445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="124.0" class="art" opacity="0">⠐
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10500;0.10513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="124.0" class="art" opacity="0">⡄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10568;0.10581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="124.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10636;0.10648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="124.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10704;0.10716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="124.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10771;0.10784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="124.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10839;0.10852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="124.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10907;0.10919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="144.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.10975;0.10987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="144.0" class="art" opacity="0">⠗
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11043;0.11055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="144.0" class="art" opacity="0">⠓
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11110;0.11123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="144.0" class="art" opacity="0">⠢
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11178;0.11191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="144.0" class="art" opacity="0">⡄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11246;0.11258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="144.0" class="art" opacity="0">⠙
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11314;0.11326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="144.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11382;0.11394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="144.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11449;0.11462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="144.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11517;0.11530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="144.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11585;0.11597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="144.0" class="art" opacity="0">⠴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11653;0.11665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="144.0" class="art" opacity="0">⠚
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11721;0.11733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="144.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11788;0.11801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="144.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11856;0.11869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="144.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11924;0.11936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="144.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.11992;0.12004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="144.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12060;0.12072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="144.0" class="art" opacity="0">⢤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12127;0.12140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="144.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12195;0.12208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="48.4" y="164.0" class="art" opacity="0">⡠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12263;0.12275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="164.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12331;0.12343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="164.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12399;0.12411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="164.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12466;0.12479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="164.0" class="art" opacity="0">⡷
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12534;0.12547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="164.0" class="art" opacity="0">⠚
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12602;0.12614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="164.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12670;0.12682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="164.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12738;0.12750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="164.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12805;0.12818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="164.0" class="art" opacity="0">⡠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12873;0.12886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="164.0" class="art" opacity="0">⠖
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.12941;0.12953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="164.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13009;0.13021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="164.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13076;0.13089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="164.0" class="art" opacity="0">⣸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13144;0.13157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="164.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13212;0.13225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="38.2" y="184.0" class="art" opacity="0">⡰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13280;0.13292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="48.4" y="184.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13348;0.13360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="184.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13415;0.13428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="184.0" class="art" opacity="0">⡞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13483;0.13496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="184.0" class="art" opacity="0">⢹
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13551;0.13564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="184.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13619;0.13631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="184.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13687;0.13699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="184.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13754;0.13767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="184.0" class="art" opacity="0">⠖
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13822;0.13835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="184.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13890;0.13903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="184.0" class="art" opacity="0">⣰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.13958;0.13970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="184.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14026;0.14038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="28.0" y="204.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14093;0.14106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="38.2" y="204.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14161;0.14174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="204.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14229;0.14242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="204.0" class="art" opacity="0">⠊
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14297;0.14309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="204.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14365;0.14377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="204.0" class="art" opacity="0">⠸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14432;0.14445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="204.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14500;0.14513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="204.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14568;0.14581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="204.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14636;0.14648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="204.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14704;0.14716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="204.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14771;0.14784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="204.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14839;0.14852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="204.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14907;0.14919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="204.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.14975;0.14987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="204.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15043;0.15055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="204.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15110;0.15123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="204.0" class="art" opacity="0">⣼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15178;0.15191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="204.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15246;0.15258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="28.0" y="224.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15314;0.15326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="38.2" y="224.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15382;0.15394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="224.0" class="art" opacity="0">⢰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15449;0.15462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="224.0" class="art" opacity="0">⢻
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15517;0.15530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="224.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15585;0.15597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="224.0" class="art" opacity="0">⢰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15653;0.15665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="224.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15721;0.15733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="224.0" class="art" opacity="0">⣸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15788;0.15801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="224.0" class="art" opacity="0">⣰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15856;0.15869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="224.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15924;0.15936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="224.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.15992;0.16004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="224.0" class="art" opacity="0">⢳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16060;0.16072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="224.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16127;0.16140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="224.0" class="art" opacity="0">⡴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16195;0.16208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="224.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16263;0.16275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="224.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16331;0.16343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="224.0" class="art" opacity="0">⡴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16399;0.16411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="224.0" class="art" opacity="0">⠊
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16466;0.16479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="224.0" class="art" opacity="0">⢡
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16534;0.16547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="224.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16602;0.16614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="224.0" class="art" opacity="0">⡰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16670;0.16682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="224.0" class="art" opacity="0">⢫
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16737;0.16750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="224.0" class="art" opacity="0">⠏
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16805;0.16818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="224.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16873;0.16886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="415.6" y="224.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.16941;0.16953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="425.8" y="224.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17009;0.17021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="436.0" y="224.0" class="art" opacity="0">⠒
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17076;0.17089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="446.2" y="224.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17144;0.17157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="456.4" y="224.0" class="art" opacity="0">⣩
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17212;0.17225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="466.6" y="224.0" class="art" opacity="0">⠇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17280;0.17292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="38.2" y="244.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17348;0.17360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="48.4" y="244.0" class="art" opacity="0">⠦
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17415;0.17428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="244.0" class="art" opacity="0">⣝
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17483;0.17496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="244.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17551;0.17564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="244.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17619;0.17631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="244.0" class="art" opacity="0">⢇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17687;0.17699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="244.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17754;0.17767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="244.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17822;0.17835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="244.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17890;0.17903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="244.0" class="art" opacity="0">⠟
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.17958;0.17970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="244.0" class="art" opacity="0">⢶
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18026;0.18038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="244.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18093;0.18106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="244.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18161;0.18174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="244.0" class="art" opacity="0">⢿
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18229;0.18242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="244.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18297;0.18309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="244.0" class="art" opacity="0">⡰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18365;0.18377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="244.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18432;0.18445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="244.0" class="art" opacity="0">⡰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18500;0.18513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="244.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18568;0.18581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="244.0" class="art" opacity="0">⢋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18636;0.18648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="244.0" class="art" opacity="0">⡴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18704;0.18716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="244.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18771;0.18784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="244.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18839;0.18852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="385.0" y="244.0" class="art" opacity="0">⣴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18907;0.18919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="395.2" y="244.0" class="art" opacity="0">⠚
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.18975;0.18987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="244.0" class="art" opacity="0">⠯
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19043;0.19055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="415.6" y="244.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19110;0.19123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="446.2" y="244.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19178;0.19191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="456.4" y="244.0" class="art" opacity="0">⢉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19246;0.19258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="466.6" y="244.0" class="art" opacity="0">⣩
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19314;0.19326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="476.8" y="244.0" class="art" opacity="0">⠇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19382;0.19394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="264.0" class="art" opacity="0">⢿
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19449;0.19462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="264.0" class="art" opacity="0">⡛
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19517;0.19530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="264.0" class="art" opacity="0">⠻
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19585;0.19597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="264.0" class="art" opacity="0">⣄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19653;0.19665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="264.0" class="art" opacity="0">⡘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19721;0.19733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="264.0" class="art" opacity="0">⡏
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19788;0.19801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="264.0" class="art" opacity="0">⣾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19856;0.19869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="264.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19924;0.19936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="264.0" class="art" opacity="0">⡎
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.19992;0.20004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="264.0" class="art" opacity="0">⡸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20060;0.20072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="264.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20127;0.20140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="264.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20195;0.20208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="264.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20263;0.20275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="264.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20331;0.20343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="264.0" class="art" opacity="0">⣾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20399;0.20411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="264.0" class="art" opacity="0">⠥
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20466;0.20479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="264.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20534;0.20547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="264.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20602;0.20614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="264.0" class="art" opacity="0">⢶
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20670;0.20682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="264.0" class="art" opacity="0">⡋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20738;0.20750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="264.0" class="art" opacity="0">⡠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20805;0.20818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="264.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20873;0.20886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="264.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.20941;0.20953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="385.0" y="264.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21009;0.21021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="395.2" y="264.0" class="art" opacity="0">⠙
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21076;0.21089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="264.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21144;0.21157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="415.6" y="264.0" class="art" opacity="0">⢹
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21212;0.21225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="425.8" y="264.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21280;0.21292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="436.0" y="264.0" class="art" opacity="0">⠴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21348;0.21360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="446.2" y="264.0" class="art" opacity="0">⠊
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21415;0.21428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="456.4" y="264.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21483;0.21496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="284.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21551;0.21564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="284.0" class="art" opacity="0">⡵
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21619;0.21631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="284.0" class="art" opacity="0">⢤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21687;0.21699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="284.0" class="art" opacity="0">⠙
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21754;0.21767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="284.0" class="art" opacity="0">⠂
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21822;0.21835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="284.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21890;0.21903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="284.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.21958;0.21970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="284.0" class="art" opacity="0">⢇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22026;0.22038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="284.0" class="art" opacity="0">⢇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22093;0.22106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="284.0" class="art" opacity="0">⠛
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22161;0.22174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="284.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22229;0.22242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="284.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22297;0.22309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="284.0" class="art" opacity="0">⣸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22365;0.22377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="284.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22432;0.22445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="284.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22500;0.22513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="284.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22568;0.22581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="284.0" class="art" opacity="0">⡤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22636;0.22648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="284.0" class="art" opacity="0">⠊
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22704;0.22716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="395.2" y="284.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22771;0.22784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="284.0" class="art" opacity="0">⡿
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22839;0.22852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="415.6" y="284.0" class="art" opacity="0">⠚
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22907;0.22919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="425.8" y="284.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.22975;0.22987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="304.0" class="art" opacity="0">⢩
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23043;0.23055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="304.0" class="art" opacity="0">⣯
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23110;0.23123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="304.0" class="art" opacity="0">⠖
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23178;0.23191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="304.0" class="art" opacity="0">⢋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23246;0.23258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="304.0" class="art" opacity="0">⠑
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23314;0.23326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="304.0" class="art" opacity="0">⠲
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23382;0.23394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="304.0" class="art" opacity="0">⣄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23449;0.23462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="304.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23517;0.23530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="304.0" class="art" opacity="0">⠦
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23585;0.23597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="304.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23653;0.23665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="304.0" class="art" opacity="0">⠼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23721;0.23733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="304.0" class="art" opacity="0">⠚
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23788;0.23801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="304.0" class="art" opacity="0">⣿
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23856;0.23869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="304.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23924;0.23936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="304.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.23992;0.24004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="304.0" class="art" opacity="0">⠔
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24060;0.24072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="304.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24127;0.24140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="304.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24195;0.24208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="304.0" class="art" opacity="0">⠏
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24263;0.24275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="304.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24331;0.24343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="304.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24399;0.24411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="304.0" class="art" opacity="0">⠔
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24466;0.24479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="304.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24534;0.24547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="304.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24602;0.24614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="385.0" y="304.0" class="art" opacity="0">⠖
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24670;0.24682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="395.2" y="304.0" class="art" opacity="0">⠻
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24738;0.24750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="304.0" class="art" opacity="0">⡄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24805;0.24818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="324.0" class="art" opacity="0">⡞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24873;0.24886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="324.0" class="art" opacity="0">⢁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.24941;0.24953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="324.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25009;0.25021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="324.0" class="art" opacity="0">⢩
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25076;0.25089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="324.0" class="art" opacity="0">⠙
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25144;0.25157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="324.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25212;0.25225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="324.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25280;0.25292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="324.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25348;0.25360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="324.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25415;0.25428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="324.0" class="art" opacity="0">⡴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25483;0.25496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="324.0" class="art" opacity="0">⠊
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25551;0.25564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="324.0" class="art" opacity="0">⣉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25619;0.25631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="324.0" class="art" opacity="0">⠙
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25687;0.25699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="324.0" class="art" opacity="0">⢾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25754;0.25767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="324.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25822;0.25835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="324.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25890;0.25903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="324.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.25958;0.25970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="324.0" class="art" opacity="0">⡠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26026;0.26038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="324.0" class="art" opacity="0">⠴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26093;0.26106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="324.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26161;0.26174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="324.0" class="art" opacity="0">⠓
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26229;0.26242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="324.0" class="art" opacity="0">⠒
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26297;0.26309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="324.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26365;0.26377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="324.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26432;0.26445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="324.0" class="art" opacity="0">⡤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26500;0.26513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="324.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26568;0.26581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="324.0" class="art" opacity="0">⢹
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26636;0.26648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="324.0" class="art" opacity="0">⢳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26704;0.26716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="344.0" class="art" opacity="0">⢰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26771;0.26784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="344.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26839;0.26852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="344.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26907;0.26919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="344.0" class="art" opacity="0">⠸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.26975;0.26987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="344.0" class="art" opacity="0">⢤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27043;0.27055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="344.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27110;0.27123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="344.0" class="art" opacity="0">⣱
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27178;0.27191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="344.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27246;0.27258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="344.0" class="art" opacity="0">⣰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27314;0.27326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="344.0" class="art" opacity="0">⠛
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27382;0.27394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="344.0" class="art" opacity="0">⡏
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27449;0.27462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="344.0" class="art" opacity="0">⢣
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27517;0.27530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="344.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27585;0.27597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="344.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27653;0.27665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="344.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27721;0.27733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="344.0" class="art" opacity="0">⠓
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27788;0.27801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="344.0" class="art" opacity="0">⠦
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27856;0.27869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="344.0" class="art" opacity="0">⢄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27924;0.27936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="344.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.27992;0.28004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="344.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28060;0.28072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="344.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28127;0.28140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="344.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28195;0.28208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="344.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28263;0.28275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="344.0" class="art" opacity="0">⡠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28331;0.28343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="344.0" class="art" opacity="0">⠴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28399;0.28411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="344.0" class="art" opacity="0">⠚
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28466;0.28479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="344.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28534;0.28547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="344.0" class="art" opacity="0">⡜
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28602;0.28614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="344.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28670;0.28682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="364.0" class="art" opacity="0">⠸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28737;0.28750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="364.0" class="art" opacity="0">⡄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28805;0.28818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="364.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28873;0.28886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="364.0" class="art" opacity="0">⠓
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.28941;0.28953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="364.0" class="art" opacity="0">⠒
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29009;0.29021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="364.0" class="art" opacity="0">⠊
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29076;0.29089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="364.0" class="art" opacity="0">⠠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29144;0.29157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="364.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29212;0.29225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="364.0" class="art" opacity="0">⢧
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29280;0.29292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="364.0" class="art" opacity="0">⠒
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29348;0.29360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="364.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29415;0.29428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="364.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29483;0.29496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="364.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29551;0.29564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="364.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29619;0.29631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="364.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29687;0.29699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="364.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29754;0.29767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="364.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29822;0.29835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="364.0" class="art" opacity="0">⣰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29890;0.29903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="364.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.29958;0.29970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="364.0" class="art" opacity="0">⣼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30026;0.30038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="384.0" class="art" opacity="0">⠙
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30093;0.30106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="384.0" class="art" opacity="0">⣦
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30161;0.30174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="384.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30229;0.30242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="384.0" class="art" opacity="0">⣄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30297;0.30309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="384.0" class="art" opacity="0">⠳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30365;0.30377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="384.0" class="art" opacity="0">⢤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30432;0.30445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="384.0" class="art" opacity="0">⡠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30500;0.30513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="384.0" class="art" opacity="0">⠴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30568;0.30581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="384.0" class="art" opacity="0">⢪
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30636;0.30648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="384.0" class="art" opacity="0">⡑
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30704;0.30716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="384.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30771;0.30784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="384.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30839;0.30852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="384.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30907;0.30919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="384.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.30975;0.30987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="384.0" class="art" opacity="0">⡠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31043;0.31055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="384.0" class="art" opacity="0">⠒
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31110;0.31123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="384.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31178;0.31191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="384.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31246;0.31258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="384.0" class="art" opacity="0">⣉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31314;0.31326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="384.0" class="art" opacity="0">⡲
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31382;0.31394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="384.0" class="art" opacity="0">⣄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31449;0.31462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="384.0" class="art" opacity="0">⡴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31517;0.31530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="384.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31585;0.31597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="395.2" y="384.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31653;0.31665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="405.4" y="384.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31721;0.31733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="404.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31788;0.31801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="404.0" class="art" opacity="0">⡌
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31856;0.31869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="404.0" class="art" opacity="0">⠳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31924;0.31936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="404.0" class="art" opacity="0">⣵
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.31992;0.32004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="404.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32060;0.32072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="404.0" class="art" opacity="0">⣇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32127;0.32140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="404.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32195;0.32208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="404.0" class="art" opacity="0">⡷
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32263;0.32275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="404.0" class="art" opacity="0">⠚
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32331;0.32343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="404.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32399;0.32411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="404.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32466;0.32479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="404.0" class="art" opacity="0">⠔
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32534;0.32547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="404.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32602;0.32614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="404.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32670;0.32682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="404.0" class="art" opacity="0">⠔
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32738;0.32750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="404.0" class="art" opacity="0">⠫
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32805;0.32818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="404.0" class="art" opacity="0">⣅
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32873;0.32886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="404.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.32941;0.32953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="404.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33009;0.33021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="404.0" class="art" opacity="0">⢳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33076;0.33089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="404.0" class="art" opacity="0">⣤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33144;0.33157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="404.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33212;0.33225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="404.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33280;0.33292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="404.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33348;0.33360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="404.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33415;0.33428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="385.0" y="404.0" class="art" opacity="0">⡤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33483;0.33496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="395.2" y="404.0" class="art" opacity="0">⣾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33551;0.33564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="424.0" class="art" opacity="0">⢧
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33619;0.33631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="424.0" class="art" opacity="0">⢱
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33687;0.33699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="424.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33754;0.33767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="424.0" class="art" opacity="0">⡁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33822;0.33835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="424.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33890;0.33903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="424.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.33958;0.33970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="424.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34026;0.34038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="424.0" class="art" opacity="0">⣙
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34093;0.34106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="424.0" class="art" opacity="0">⡦
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34161;0.34174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="424.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34229;0.34242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="424.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34297;0.34309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="424.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34365;0.34377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="424.0" class="art" opacity="0">⣞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34432;0.34445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="424.0" class="art" opacity="0">⣁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34500;0.34513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="424.0" class="art" opacity="0">⡤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34568;0.34581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="424.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34636;0.34648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="424.0" class="art" opacity="0">⢬
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34704;0.34716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="424.0" class="art" opacity="0">⣳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34771;0.34784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="424.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34839;0.34852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="424.0" class="art" opacity="0">⠴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34907;0.34919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="424.0" class="art" opacity="0">⠊
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.34975;0.34987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="424.0" class="art" opacity="0">⠒
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35043;0.35055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="424.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35110;0.35123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="424.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35178;0.35191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="385.0" y="424.0" class="art" opacity="0">⠔
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35246;0.35258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="395.2" y="424.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35314;0.35326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="444.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35382;0.35394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="444.0" class="art" opacity="0">⠣
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35449;0.35462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="444.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35517;0.35530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="444.0" class="art" opacity="0">⡽
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35585;0.35597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="444.0" class="art" opacity="0">⠛
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35653;0.35665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="444.0" class="art" opacity="0">⢯
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35721;0.35733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="444.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35788;0.35801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="444.0" class="art" opacity="0">⠾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35856;0.35869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="444.0" class="art" opacity="0">⣉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35924;0.35936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="444.0" class="art" opacity="0">⡁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.35992;0.36004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="444.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36060;0.36072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="444.0" class="art" opacity="0">⡠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36127;0.36140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="444.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36195;0.36208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="444.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36263;0.36275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="444.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36331;0.36343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="444.0" class="art" opacity="0">⠢
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36399;0.36411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="444.0" class="art" opacity="0">⡤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36466;0.36479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="444.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36534;0.36547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="444.0" class="art" opacity="0">⢶
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36602;0.36614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="444.0" class="art" opacity="0">⠒
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36670;0.36682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="444.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36738;0.36750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="374.8" y="444.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36805;0.36818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="464.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36873;0.36886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="464.0" class="art" opacity="0">⡞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.36941;0.36953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="464.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37009;0.37021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="464.0" class="art" opacity="0">⢿
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37076;0.37089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="464.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37144;0.37157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="464.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37212;0.37225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="464.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37280;0.37292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="464.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37348;0.37360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="464.0" class="art" opacity="0">⣰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37415;0.37428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="464.0" class="art" opacity="0">⠂
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37483;0.37496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="464.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37551;0.37564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="464.0" class="art" opacity="0">⢆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37619;0.37631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="464.0" class="art" opacity="0">⠸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37687;0.37699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="464.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37754;0.37767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="484.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37822;0.37835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="484.0" class="art" opacity="0">⡞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37890;0.37903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="484.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.37958;0.37970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="484.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38026;0.38038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="484.0" class="art" opacity="0">⠂
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38093;0.38106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="484.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38161;0.38174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="484.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38229;0.38242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="484.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38297;0.38309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="484.0" class="art" opacity="0">⣆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38365;0.38377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="484.0" class="art" opacity="0">⣇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38432;0.38445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="504.0" class="art" opacity="0">⣇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38500;0.38513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="504.0" class="art" opacity="0">⣷
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38568;0.38581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="504.0" class="art" opacity="0">⡘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38636;0.38648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="504.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38704;0.38716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="504.0" class="art" opacity="0">⠱
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38771;0.38784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="504.0" class="art" opacity="0">⣄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38839;0.38852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="504.0" class="art" opacity="0">⡞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38907;0.38919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="504.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.38975;0.38987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="504.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39043;0.39055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="504.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39110;0.39123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="504.0" class="art" opacity="0">⣘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39178;0.39191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="504.0" class="art" opacity="0">⠸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39246;0.39258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="504.0" class="art" opacity="0">⡟
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39314;0.39326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="58.6" y="524.0" class="art" opacity="0">⠘
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39382;0.39394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="524.0" class="art" opacity="0">⣄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39449;0.39462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="524.0" class="art" opacity="0">⢹
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39517;0.39530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="524.0" class="art" opacity="0">⡉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39585;0.39597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="524.0" class="art" opacity="0">⠻
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39653;0.39665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="524.0" class="art" opacity="0">⡄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39721;0.39733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="524.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39788;0.39801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="524.0" class="art" opacity="0">⢲
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39856;0.39869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="524.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39924;0.39936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="524.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.39992;0.40004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="524.0" class="art" opacity="0">⣎
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40060;0.40072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="211.6" y="524.0" class="art" opacity="0">⡤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40127;0.40140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="221.8" y="524.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40195;0.40208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="232.0" y="524.0" class="art" opacity="0">⠔
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40263;0.40275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="524.0" class="art" opacity="0">⢶
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40331;0.40343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="524.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40399;0.40411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="524.0" class="art" opacity="0">⠌
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40466;0.40479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="524.0" class="art" opacity="0">⣧
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40534;0.40547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="524.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40602;0.40614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="524.0" class="art" opacity="0">⢳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40670;0.40682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="544.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40737;0.40750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="544.0" class="art" opacity="0">⠓
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40805;0.40818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="544.0" class="art" opacity="0">⠤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40873;0.40886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="544.0" class="art" opacity="0">⣑
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.40941;0.40953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="544.0" class="art" opacity="0">⡄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41009;0.41021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="544.0" class="art" opacity="0">⠱
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41076;0.41089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="544.0" class="art" opacity="0">⡄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41144;0.41157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="544.0" class="art" opacity="0">⡏
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41212;0.41225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="544.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41280;0.41292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="544.0" class="art" opacity="0">⠏
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41348;0.41360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="201.4" y="544.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41415;0.41428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="242.2" y="544.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41483;0.41496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="544.0" class="art" opacity="0">⠣
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41551;0.41564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="544.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41619;0.41631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="544.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41687;0.41699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="544.0" class="art" opacity="0">⠓
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41754;0.41767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="544.0" class="art" opacity="0">⣤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41822;0.41835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="544.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41890;0.41903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="544.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.41958;0.41970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="544.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42026;0.42038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="564.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42093;0.42106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="564.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42161;0.42174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="564.0" class="art" opacity="0">⣻
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42229;0.42242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="564.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42297;0.42309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="564.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42365;0.42377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="564.0" class="art" opacity="0">⡜
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42432;0.42445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="564.0" class="art" opacity="0">⢹
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42500;0.42513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="564.0" class="art" opacity="0">⡄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42568;0.42581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="564.0" class="art" opacity="0">⠙
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42636;0.42648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="564.0" class="art" opacity="0">⢦
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42704;0.42716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="564.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42771;0.42784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="564.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42839;0.42852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="564.0" class="art" opacity="0">⡈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42907;0.42919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="564.0" class="art" opacity="0">⠑
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.42975;0.42987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="564.0" class="art" opacity="0">⡆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43043;0.43055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="564.0" class="art" opacity="0">⡗
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43110;0.43123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="584.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43178;0.43191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="584.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43246;0.43258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="584.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43314;0.43326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="584.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43382;0.43394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="584.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43449;0.43462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="584.0" class="art" opacity="0">⠇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43517;0.43530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="584.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43585;0.43597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="584.0" class="art" opacity="0">⠎
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43653;0.43665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="584.0" class="art" opacity="0">⣸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43721;0.43733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="191.2" y="584.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43788;0.43801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="584.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43856;0.43869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="584.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43924;0.43936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="584.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.43992;0.44004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="584.0" class="art" opacity="0">⣼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44060;0.44072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="584.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44127;0.44140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="584.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44195;0.44208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="584.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44263;0.44275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="584.0" class="art" opacity="0">⣰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44331;0.44343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="364.6" y="584.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44399;0.44411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="604.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44466;0.44479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="604.0" class="art" opacity="0">⠣
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44534;0.44547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="604.0" class="art" opacity="0">⣀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44602;0.44614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="604.0" class="art" opacity="0">⡾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44670;0.44682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="604.0" class="art" opacity="0">⣄
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44738;0.44750;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="604.0" class="art" opacity="0">⢴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44805;0.44818;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="604.0" class="art" opacity="0">⠯
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44873;0.44886;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="604.0" class="art" opacity="0">⢤
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.44941;0.44953;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="604.0" class="art" opacity="0">⡴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45009;0.45021;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="604.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45076;0.45089;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="604.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45144;0.45157;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="604.0" class="art" opacity="0">⠛
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45212;0.45225;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="604.0" class="art" opacity="0">⢱
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45280;0.45292;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="604.0" class="art" opacity="0">⠇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45348;0.45360;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="604.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45415;0.45428;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="604.0" class="art" opacity="0">⠷
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45483;0.45496;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="604.0" class="art" opacity="0">⢋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45551;0.45564;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="354.4" y="604.0" class="art" opacity="0">⡏
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45619;0.45631;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="68.8" y="624.0" class="art" opacity="0">⠠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45687;0.45699;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="79.0" y="624.0" class="art" opacity="0">⣞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45754;0.45767;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="624.0" class="art" opacity="0">⣉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45822;0.45835;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="624.0" class="art" opacity="0">⣁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45890;0.45903;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="624.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.45958;0.45970;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="624.0" class="art" opacity="0">⠁
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46026;0.46038;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="624.0" class="art" opacity="0">⢡
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46093;0.46106;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="624.0" class="art" opacity="0">⣿
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46161;0.46174;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="624.0" class="art" opacity="0">⣶
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46229;0.46242;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="624.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46297;0.46309;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="624.0" class="art" opacity="0">⢰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46365;0.46377;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="181.0" y="624.0" class="art" opacity="0">⡇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46432;0.46445;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="624.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46500;0.46513;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="624.0" class="art" opacity="0">⡴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46568;0.46581;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="624.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46636;0.46648;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="624.0" class="art" opacity="0">⢠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46704;0.46716;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="293.2" y="624.0" class="art" opacity="0">⠏
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46771;0.46784;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="624.0" class="art" opacity="0">⣰
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46839;0.46852;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="624.0" class="art" opacity="0">⠇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46907;0.46919;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="624.0" class="art" opacity="0">⡾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.46975;0.46987;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="644.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47043;0.47055;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="644.0" class="art" opacity="0">⢋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47110;0.47123;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="644.0" class="art" opacity="0">⡀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47178;0.47191;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="644.0" class="art" opacity="0">⢀
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47246;0.47258;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="130.0" y="644.0" class="art" opacity="0">⡞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47314;0.47326;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="140.2" y="644.0" class="art" opacity="0">⢸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47382;0.47394;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="150.4" y="644.0" class="art" opacity="0">⣳
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47449;0.47462;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="160.6" y="644.0" class="art" opacity="0">⣠
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47517;0.47530;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="170.8" y="644.0" class="art" opacity="0">⠞
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47585;0.47597;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="252.4" y="644.0" class="art" opacity="0">⠸
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47653;0.47665;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="262.6" y="644.0" class="art" opacity="0">⠼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47721;0.47733;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="272.8" y="644.0" class="art" opacity="0">⠵
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47788;0.47801;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="283.0" y="644.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47856;0.47869;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="644.0" class="art" opacity="0">⣾
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47924;0.47936;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="644.0" class="art" opacity="0">⢇
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.47992;0.48004;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="644.0" class="art" opacity="0">⣆
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48060;0.48072;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="334.0" y="644.0" class="art" opacity="0">⡼
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48127;0.48140;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="344.2" y="644.0" class="art" opacity="0">⠃
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48195;0.48208;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="89.2" y="664.0" class="art" opacity="0">⠻
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48263;0.48275;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="99.4" y="664.0" class="art" opacity="0">⠯
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48331;0.48343;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="109.6" y="664.0" class="art" opacity="0">⠴
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48399;0.48411;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="119.8" y="664.0" class="art" opacity="0">⠋
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48466;0.48479;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="303.4" y="664.0" class="art" opacity="0">⠈
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48534;0.48547;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="313.6" y="664.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48602;0.48614;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+  <text x="323.8" y="664.0" class="art" opacity="0">⠉
+    <animate attributeName="opacity"
+             values="0;0;1;1;0;0"
+             keyTimes="0;0.48670;0.48682;0.83750;0.89375;1"
+             dur="8.0s"
+             repeatCount="indefinite"/>
+  </text>
+</g>
+</svg>
