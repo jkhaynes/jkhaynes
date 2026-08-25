@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720" role="img" aria-label="Animated Sylveon ASCII art">
+  <style>
+    .prompt {
+      font: 16px "Cascadia Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      fill: #D98CB3;
+    }
+    .art {
+      font: 17px "Cascadia Mono", "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+      fill: #F3C4E3;
+      white-space: pre;
+    }
+    .cursor {
+      fill: #B98BCB;
+      animation: blink 1s steps(2, start) infinite;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <text x="24" y="30" class="prompt">jess@github ~ $ summon sylveon</text>
+  <rect x="307" y="18" width="10" height="16" rx="1" class="cursor"/>
+
+  <text x="24" y="58" class="art" opacity="0">⠀⠀⠀⠀⠀⠀⠀⠀⡤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.350s" fill="freeze"/></text>
+  <text x="24" y="78" class="art" opacity="0">⠀⠀⠀⠀⠀⠀⢀⠞⠀⢀⣳⠔⠊⢉⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.425s" fill="freeze"/></text>
+  <text x="24" y="98" class="art" opacity="0">⠀⠀⠀⠀⠀⣠⡎⢀⠔⠋⠀⠀⣠⣎⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.500s" fill="freeze"/></text>
+  <text x="24" y="118" class="art" opacity="0">⠀⠀⠀⠀⡸⢸⠾⣅⡀⠐⡄⠈⠁⠀⠀⢀⡼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.575s" fill="freeze"/></text>
+  <text x="24" y="138" class="art" opacity="0">⠀⠀⠀⢀⠗⠓⠢⡄⠙⡆⠘⢀⣠⠴⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠤⠤⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.650s" fill="freeze"/></text>
+  <text x="24" y="158" class="art" opacity="0">⠀⠀⡠⠋⠀⠀⠀⢸⣀⡷⠚⠉⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠖⠋⠁⠀⠀⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.725s" fill="freeze"/></text>
+  <text x="24" y="178" class="art" opacity="0">⠀⡰⠁⠀⠀⠀⣠⡞⢹⡆⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⠉⠀⠀⠀⠀⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.800s" fill="freeze"/></text>
+  <text x="24" y="198" class="art" opacity="0">⢠⡇⠀⠀⣠⠊⠀⡇⠸⡇⠀⢀⡇⠀⠀⣀⠀⠀⠀⢠⠞⠁⠀⣀⡀⠀⠀⠀⢀⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.875s" fill="freeze"/></text>
+  <text x="24" y="218" class="art" opacity="0">⠈⡇⠀⢰⢻⠀⠀⡇⢰⡇⠀⣸⠀⣰⠋⠈⢳⡀⡴⠃⢀⡴⠊⢡⠃⠀⠀⡰⢫⠏⠀⠀⠀⠀⠀⠀⠀⢀⣠⠤⠒⠉⣩⠇⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.950s" fill="freeze"/></text>
+  <text x="24" y="238" class="art" opacity="0">⠀⠈⠦⣝⠘⡆⠀⢇⢸⠁⢠⠟⢶⠃⠀⠀⡀⢿⠁⡰⠋⠀⡰⠃⠀⠀⢋⡴⠃⠀⠀⠀⠀⠀⢀⣴⠚⠯⡀⠀⠀⠈⢉⣩⠇<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.025s" fill="freeze"/></text>
+  <text x="24" y="258" class="art" opacity="0">⠀⠀⠀⢿⡛⠻⣄⡘⡏⠀⣾⣀⡎⠀⠀⡸⠀⠘⡼⠁⣠⣾⠥⠤⠤⢶⡋⠀⠀⠀⠀⠀⡠⠞⠁⠈⠙⡆⢹⣠⠴⠊⠉⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.100s" fill="freeze"/></text>
+  <text x="24" y="278" class="art" opacity="0">⠀⠀⠀⢠⡵⢤⠀⠙⠂⠈⠁⠀⢇⠀⠀⢇⠀⠀⠛⠉⠁⣸⠀⠀⠀⢸⠃⠀⠀⢀⡤⠊⠀⠀⠀⠀⢀⡿⠚⠁⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.175s" fill="freeze"/></text>
+  <text x="24" y="298" class="art" opacity="0">⠀⠀⠀⠀⢩⣯⠖⢋⠑⠲⣄⠀⠘⠦⠤⠼⠚⣿⣀⣠⠔⠁⠀⠀⣠⠏⢀⣠⠔⠋⠀⠀⠀⠀⣠⠖⠻⡄⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.250s" fill="freeze"/></text>
+  <text x="24" y="318" class="art" opacity="0">⠀⠀⠀⠀⡞⢁⠞⢩⠙⡆⠘⡆⢀⡴⠊⣉⠙⢾⣀⣀⣀⡠⠴⠞⠓⠒⠉⠀⠀⠀⠀⢀⡤⠞⢹⠀⠀⢳⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.325s" fill="freeze"/></text>
+  <text x="24" y="338" class="art" opacity="0">⠀⠀⠀⢰⠃⢸⠀⠸⢤⡇⠀⣱⠋⣰⠛⡏⢣⠘⡆⠈⠓⠦⢄⣀⣀⣀⣀⣀⡠⠴⠚⠁⠀⠀⡜⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.400s" fill="freeze"/></text>
+  <text x="24" y="358" class="art" opacity="0">⠀⠀⠀⠸⡄⠈⠓⠒⠊⠀⠠⠤⠀⢧⠒⠁⡼⢠⠃⠀⠀⠀⠀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀⠀⣼⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.475s" fill="freeze"/></text>
+  <text x="24" y="378" class="art" opacity="0">⠀⠀⠀⠀⠙⣦⠤⣄⠀⠳⢤⡠⠴⢪⡑⠋⢀⡼⠀⢀⡠⠒⠉⠀⠀⢀⣉⡲⣄⠀⠀⠀⡴⠃⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.550s" fill="freeze"/></text>
+  <text x="24" y="398" class="art" opacity="0">⠀⠀⠀⠀⠀⡇⠀⡌⠳⣵⠋⣇⠀⢠⡷⠚⠉⢀⠔⠋⠀⠀⣠⠔⠫⣅⠀⠈⠈⢳⣤⠞⠁⢀⣀⡤⣾⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.625s" fill="freeze"/></text>
+  <text x="24" y="418" class="art" opacity="0">⠀⠀⠀⠀⠀⢧⠀⢱⡀⡁⢀⡇⠀⡼⣙⡦⠞⠁⠀⠀⢠⣞⣁⡤⠤⢬⣳⣠⠴⠊⠀⠀⠒⠉⣠⠔⠃⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.700s" fill="freeze"/></text>
+  <text x="24" y="438" class="art" opacity="0">⠀⠀⠀⠀⠀⡼⠣⣀⡽⠛⢯⣀⠾⣉⡁⠀⠀⣀⡠⠞⠁⠀⠀⠀⠀⠀⠀⠉⠢⡤⠤⢶⠒⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.775s" fill="freeze"/></text>
+  <text x="24" y="458" class="art" opacity="0">⠀⠀⠀⢀⡞⠀⢠⢿⠀⠀⠁⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⣰⠂⠀⠀⠀⠘⢆⠸⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.850s" fill="freeze"/></text>
+  <text x="24" y="478" class="art" opacity="0">⠀⠀⠀⡼⠀⠀⡞⢸⠀⠀⠀⠀⢠⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠃⠀⠀⠀⠀⠀⠘⣆⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.925s" fill="freeze"/></text>
+  <text x="24" y="498" class="art" opacity="0">⠀⠀⠀⣇⠀⠀⣷⡘⡆⠱⣄⠀⡞⠀⠀⠀⠀⢀⠀⡀⠀⠀⣀⣘⠀⠀⠀⠀⠀⠀⠀⠸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.000s" fill="freeze"/></text>
+  <text x="24" y="518" class="art" opacity="0">⠀⠀⠀⠘⣄⠀⢹⡉⠻⡄⠈⢲⠁⠀⠀⠀⢀⣎⡤⠤⠔⢶⠤⠌⣧⡀⠀⠀⠀⠀⠀⠀⢳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.075s" fill="freeze"/></text>
+  <text x="24" y="538" class="art" opacity="0">⠀⠀⠀⠀⠈⠓⠤⣑⡄⠱⡄⡏⠀⠀⠀⣠⠏⠁⠀⠀⠀⠈⠣⡀⠀⠈⠓⣤⣀⠀⠀⠀⠈⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.150s" fill="freeze"/></text>
+  <text x="24" y="558" class="art" opacity="0">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⣻⠁⠀⢀⡜⢹⡄⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⢸⡈⠑⡆⠀⠀⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.225s" fill="freeze"/></text>
+  <text x="24" y="578" class="art" opacity="0">⠀⠀⠀⠀⠀⢀⣀⣀⣀⣠⠇⠀⢠⠎⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⢀⡇⢀⣼⠁⢀⡇⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.300s" fill="freeze"/></text>
+  <text x="24" y="598" class="art" opacity="0">⠀⠀⠀⠀⠀⠈⠣⣀⠀⡾⣄⢴⠯⢤⡴⡇⠀⠀⠀⠀⠀⠀⠀⠀⡼⠛⢱⠇⠀⢸⠷⢋⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.375s" fill="freeze"/></text>
+  <text x="24" y="618" class="art" opacity="0">⠀⠀⠀⠀⠠⣞⣉⣁⡼⠁⢡⣿⣶⠋⢰⡇⠀⠀⠀⠀⠀⠀⢀⡴⠃⢠⠏⠀⣰⠇⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.450s" fill="freeze"/></text>
+  <text x="24" y="638" class="art" opacity="0">⠀⠀⠀⠀⠀⠀⣠⢋⡀⢀⡞⢸⣳⣠⠞⠀⠀⠀⠀⠀⠀⠀⠸⠼⠵⠋⠀⣾⢇⣆⡼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.525s" fill="freeze"/></text>
+  <text x="24" y="658" class="art" opacity="0">⠀⠀⠀⠀⠀⠀⠻⠯⠴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀<animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.600s" fill="freeze"/></text>
+</svg>
