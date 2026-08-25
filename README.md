@@ -147,6 +147,14 @@ are both public if you want to see how the project is run.
 
 <br />
 
+<p align="center">
+  <img
+    src="./assets/ascii-sylveon.svg"
+    alt="Animated Sylveon ASCII art"
+    width="900"
+  />
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:F5C2E7,50:EBA0AC,100:1E1E2E" width="100%" alt="" />
