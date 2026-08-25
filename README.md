@@ -32,7 +32,7 @@
 <br/>
 
 
-  <a href="https://jessbuilds.dev">
+  <a href="https://www.jessbuilds.dev">
     <img
       src="./assets/ascii-sylveon-typed-centered.svg"
       alt="Animated Sylveon ASCII art"
