@@ -31,11 +31,11 @@
 
 <br/>
 
-<img
-  src="./assets/ascii-sylveon.svg"
-  alt="Animated Sylveon ASCII art"
-  width="900"
-/>
+  <img
+    src="./assets/ascii-sylveon-typed-centered.svg"
+    alt="Animated Sylveon ASCII art"
+    width="515"
+  />
 
 </div>
 
