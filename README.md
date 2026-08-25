@@ -31,11 +31,14 @@
 
 <br/>
 
-  <img
-    src="./assets/ascii-sylveon-typed-centered.svg"
-    alt="Animated Sylveon ASCII art"
-    width="515"
-  />
+
+  <a href="https://jessbuilds.dev">
+    <img
+      src="./assets/ascii-sylveon-typed-centered.svg"
+      alt="Animated Sylveon ASCII art"
+      width="515"
+    />
+  </a>
 
 </div>
 
