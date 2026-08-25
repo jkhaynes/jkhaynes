@@ -39,8 +39,6 @@
 
 </div>
 
-<br />
-
 ## <img src="https://img.shields.io/badge/-F5C2E7?style=flat-square" height="14" alt="" /> About
 
 I'm a senior software developer and team lead with about nine years of experience building
