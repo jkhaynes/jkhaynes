@@ -130,6 +130,11 @@ and the README ends with what surprised me coming from C#. The card below update
 ## <img src="https://img.shields.io/badge/-F2CDCD?style=flat-square" height="14" alt="" /> Recently shipped
 
 <!-- recently-shipped:start -->
+- **loot-singles-fulfillment** · [019: record the first real deploys, custom domains and releasing](https://github.com/jkhaynes/loot-singles-fulfillment/pull/37) · Sep 25
+- **pricewatch** · [ci: dispatch runs from an external hourly cron, not schedule](https://github.com/jkhaynes/pricewatch/pull/5) · Sep 25
+- **PortfolioWebsite** · [Add the Job Hunt Pipeline case study](https://github.com/jkhaynes/PortfolioWebsite/pull/38) · Sep 25
+- **PortfolioWebsite** · [Add privacy policy page](https://github.com/jkhaynes/PortfolioWebsite/pull/37) · Sep 24
+- **loot-singles-fulfillment** · [019: automated stage and production deployment](https://github.com/jkhaynes/loot-singles-fulfillment/pull/36) · Sep 23
 <!-- recently-shipped:end -->
 
 <br />
