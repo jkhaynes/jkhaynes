@@ -36,7 +36,7 @@
     <img
       src="./assets/ascii-sylveon-typed-centered.svg"
       alt="Animated Sylveon ASCII art"
-      width="515"
+      width="300"
     />
   </a>
 
@@ -109,18 +109,6 @@ EF Core, Azure SQL. Built spec-first with AI in the loop — the
 [PRD](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/prd/Loot_Singles_Fulfillment_PRD_v0.3.md)
 and the [AI-assisted development workflow](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/development/ai-assisted-development-workflow.md)
 are both public if you want to see how the project is run.
-
-<br />
-
-
-## <img src="https://img.shields.io/badge/-F5C2E7?style=flat-square" height="14" alt="" /> Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-ecru-three-54.vercel.app/api?username=jkhaynes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=EBA0AC&ring_color=EBA0AC&border_radius=10" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats-ecru-three-54.vercel.app/api/top-langs/?username=jkhaynes&layout=compact&langs_count=6&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&border_radius=10&exclude_repo=MegaProjectList,Projects-Solutions,BasicShell,TimeWolf" height="165" alt="Top languages" />
-
-</div>
 
 <br />
 
