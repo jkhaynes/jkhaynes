@@ -42,21 +42,21 @@
 
 </div>
 
-## <img src="https://img.shields.io/badge/-F5C2E7?style=flat-square" height="14" alt="" /> About
+## <img src="https://img.shields.io/badge/-F5C2E7?style=flat-square" height="14" alt="" /> Hi, I'm Jess 👋
 
-I'm a senior software developer and team lead with about nine years of experience building
-and maintaining production .NET applications. Most of my day sits between C# services,
-SQL Server, and Angular front ends.
+I'm a senior software engineer and team lead with 9+ years of experience, mostly in C# and .NET. I like building reliable software for messy, real-world problems, and I'd rather understand a problem well than rush a fix that brings it back next month.
 
-The other half of my attention goes to AI, not as a novelty, but as part of how the work
-actually gets done. I develop with AI assistance daily and I'm building retrieval-augmented
-systems where grounding and citation matter more than fluency, because an answer you can't
-trace back to a source isn't much of an answer.
+Right now I lead a small team at 8am, where I've worked on performance, reliability, and pushing our team toward agentic AI coding tools. A few results I'm proud of:
 
-- Leading a small engineering team and staying hands-on in the codebase
-- Working on RAG systems: retrieval quality, grounding, and cited output
-- AI-assisted development as a daily practice, not an experiment
-- Based in Michigan · open to senior full-stack, back-end, and AI-adjacent roles
+- Cut a high-volume nightly job's runtime by 95%
+- Six months of incident-free production and 50% fewer support escalations
+- Raised unit-test coverage from 53% to 89%
+
+Most of my side projects come from the trading card world. I'm a Pokémon TCG judge and collector, so I build tools for the problems I actually run into.
+
+I'm currently learning agentic engineering workflows, AI evaluation and reliability, and how to design tools that keep a human in the loop. I want AI to make me faster without making me stop understanding my own code.
+
+Based in Michigan · open to senior full-stack, back-end, and AI-adjacent roles
 
 <br />
 
