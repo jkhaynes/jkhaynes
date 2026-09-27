@@ -98,28 +98,18 @@ Based in Michigan · open to senior full-stack, back-end, and AI-adjacent roles
 
 <a href="https://github.com/jkhaynes/PokeJudge/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jkhaynes/PokeJudge/ci.yml?branch=master&style=flat-square&label=build&labelColor=45475A" alt="PokéJudge build status" /></a>
 
-AI decision-support for Pokémon TCG judges. Grounded rule retrieval, clarifying questions,
-and cited recommendations, so a ruling traces back to the actual rules text rather than to
-a model's best guess.
+An AI assistant for Pokémon TCG judges. It finds the relevant rules, asks clarifying questions when a situation is unclear, and gives a recommendation with citations. Every ruling points back to the actual rules text, not the model's best guess.
 
 #### [Loot Singles Fulfillment](https://github.com/jkhaynes/loot-singles-fulfillment) &nbsp;<img src="https://img.shields.io/badge/C%23-F5C2E7?style=flat-square&logo=csharp&logoColor=1E1E2E" alt="C#" /> <img src="https://img.shields.io/badge/React-EBA0AC?style=flat-square&logo=react&logoColor=1E1E2E" alt="React" /> <img src="https://img.shields.io/badge/Azure-F2CDCD?style=flat-square&logo=microsoftazure&logoColor=1E1E2E" alt="Azure" />
 
 <a href="https://github.com/jkhaynes/loot-singles-fulfillment/actions/workflows/deploy-stage.yml"><img src="https://img.shields.io/github/actions/workflow/status/jkhaynes/loot-singles-fulfillment/deploy-stage.yml?branch=main&style=flat-square&label=tests%20%26%20deploy&labelColor=45475A" alt="Loot tests and deploy status" /></a>
 <a href="https://github.com/jkhaynes/loot-singles-fulfillment/tree/main/specs"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjkhaynes%2Fjkhaynes%2Fmain%2Fbadges%2Floot-specs.json&style=flat-square" alt="Loot spec features complete" /></a>
 
-An internal picking and fulfillment tool for a card shop, replacing printed invoices with a
-responsive PWA: order claiming so pickers don't collide, set-aware grouping that matches the
-physical shelves, and loud treatment of the details that cause mis-picks. ASP.NET Core, React,
-EF Core, Azure SQL. Built spec-first with AI in the loop — the
-[PRD](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/prd/Loot_Singles_Fulfillment_PRD_v0.3.md)
-and the [AI-assisted development workflow](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/development/ai-assisted-development-workflow.md)
-are both public if you want to see how the project is run.
+A picking and fulfillment app for a card shop that replaces printed invoices. Pickers claim orders so they don't grab the same one, cards are grouped by set to match how the shelves are organized, and the details that usually cause mis-picks are called out clearly. Built with ASP.NET Core, React, EF Core, and Azure SQL. I built it spec-first with AI in the loop, and both the [PRD](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/prd/Loot_Singles_Fulfillment_PRD_v0.3.md) and my [AI-assisted development workflow](https://github.com/jkhaynes/loot-singles-fulfillment/blob/main/docs/development/ai-assisted-development-workflow.md) are public if you want to see how the project runs.
 
 #### [pricewatch](https://github.com/jkhaynes/pricewatch) &nbsp;<img src="https://img.shields.io/badge/Go-F5C2E7?style=flat-square&logo=go&logoColor=1E1E2E" alt="Go" /> <img src="https://img.shields.io/badge/GitHub%20Actions-EBA0AC?style=flat-square&logo=githubactions&logoColor=1E1E2E" alt="GitHub Actions" />
 
-A Go CLI that prices an 8,800-card Pokémon collection on a 1,000-request daily API budget,
-using value-tiered scheduling and hourly GitHub Actions runs. I built it mainly to learn Go,
-and the README ends with what surprised me coming from C#. The card below updates every hour.
+A Go CLI that keeps prices current for an 8,800-card Pokémon collection on a 1,000-request daily API limit. Higher-value cards get checked more often, and GitHub Actions runs it every hour. I built it mainly to learn Go, and the README ends with what surprised me coming from C#. The card below updates every hour.
 
 <a href="https://jkhaynes.github.io/pricewatch-site">
   <img src="https://jkhaynes.github.io/pricewatch-site/card.svg" width="495" alt="pricewatch live status: API budget, cards checked, and the week's biggest price mover" />
