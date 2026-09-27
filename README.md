@@ -120,11 +120,11 @@ A Go CLI that keeps prices current for an 8,800-card Pokémon collection on a 1,
 ## <img src="https://img.shields.io/badge/-F2CDCD?style=flat-square" height="14" alt="" /> Recently shipped
 
 <!-- recently-shipped:start -->
+- **PokeJudge** · [Step 1: Make rulings repeatable (pin model + fixed seed)](https://github.com/jkhaynes/PokeJudge/pull/14) · Sep 26
+- **PokeJudge** · [Pace evaluate's model calls under a requests-per-minute quota](https://github.com/jkhaynes/PokeJudge/pull/13) · Sep 26
+- **PokeJudge** · [Switch development workflow to Superpowers](https://github.com/jkhaynes/PokeJudge/pull/12) · Sep 26
 - **PokeJudge** · [Add CI build/test workflow and an eval badge script](https://github.com/jkhaynes/PokeJudge/pull/11) · Sep 26
 - **pricewatch** · [site: write a profile card (card.svg) next to the status page](https://github.com/jkhaynes/pricewatch/pull/6) · Sep 26
-- **loot-singles-fulfillment** · [019: record the first real deploys, custom domains and releasing](https://github.com/jkhaynes/loot-singles-fulfillment/pull/37) · Sep 25
-- **pricewatch** · [ci: dispatch runs from an external hourly cron, not schedule](https://github.com/jkhaynes/pricewatch/pull/5) · Sep 25
-- **PortfolioWebsite** · [Add the Job Hunt Pipeline case study](https://github.com/jkhaynes/PortfolioWebsite/pull/38) · Sep 25
 <!-- recently-shipped:end -->
 
 <br />
