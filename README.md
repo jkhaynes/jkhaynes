@@ -96,7 +96,7 @@ Based in Michigan · open to senior full-stack, back-end, and AI-adjacent roles
 
 #### [PokéJudge](https://github.com/jkhaynes/PokeJudge) &nbsp;<img src="https://img.shields.io/badge/C%23-F5C2E7?style=flat-square&logo=csharp&logoColor=1E1E2E" alt="C#" /> <img src="https://img.shields.io/badge/RAG-EBA0AC?style=flat-square" alt="RAG" />
 
-<a href="https://github.com/jkhaynes/PokeJudge/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jkhaynes/PokeJudge/ci.yml?branch=master&style=flat-square&label=build&labelColor=45475A" alt="PokéJudge build status" /></a>
+<a href="https://github.com/jkhaynes/PokeJudge/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/jkhaynes/PokeJudge/ci.yml?branch=master&style=flat-square&label=build&labelColor=45475A" alt="PokéJudge build status" /></a> <a href="https://github.com/jkhaynes/PokeJudge#evaluation"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjkhaynes%2FPokeJudge%2Fmaster%2Fdocs%2Fbadges%2Feval.json&style=flat-square" alt="PokéJudge scenario evaluation pass rate" /></a>
 
 An AI assistant for Pokémon TCG judges. It finds the relevant rules, asks clarifying questions when a situation is unclear, and gives a recommendation with citations. Every ruling points back to the actual rules text, not the model's best guess.
 
