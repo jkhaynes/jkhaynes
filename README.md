@@ -120,11 +120,11 @@ A Go CLI that keeps prices current for an 8,800-card Pokémon collection on a 1,
 ## <img src="https://img.shields.io/badge/-F2CDCD?style=flat-square" height="14" alt="" /> Recently shipped
 
 <!-- recently-shipped:start -->
+- **pricewatch** · [Price stamped promo prints: Prerelease, Staff, Worlds, 30th Anniversary (DD-17)](https://github.com/jkhaynes/pricewatch/pull/10) · Sep 29
+- **pricewatch** · [Price ball-pattern, Energy and Rocket reverse holos (FR-17)](https://github.com/jkhaynes/pricewatch/pull/9) · Sep 28
+- **pricewatch** · [pricewatch mcp: one database copy per server, and a failed swap degrades to stale](https://github.com/jkhaynes/pricewatch/pull/8) · Sep 28
 - **pricewatch** · [pricewatch mcp: ask Claude about the collection (FR-16)](https://github.com/jkhaynes/pricewatch/pull/7) · Sep 27
 - **PortfolioWebsite** · [Update the downloadable resume to v2](https://github.com/jkhaynes/PortfolioWebsite/pull/39) · Sep 27
-- **PokeJudge** · [Step 2: Fix the eval with a simulated judge (11/20 → 16/20)](https://github.com/jkhaynes/PokeJudge/pull/15) · Sep 27
-- **PokeJudge** · [Step 1: Make rulings repeatable (pin model + fixed seed)](https://github.com/jkhaynes/PokeJudge/pull/14) · Sep 26
-- **PokeJudge** · [Pace evaluate's model calls under a requests-per-minute quota](https://github.com/jkhaynes/PokeJudge/pull/13) · Sep 26
 <!-- recently-shipped:end -->
 
 <br />
