@@ -1,7 +1,8 @@
 // Refreshes the live parts of the profile README. Run by
 // .github/workflows/update-profile.yml; no dependencies beyond Node 20+.
 //
-//   1. "Recently shipped": the latest merged pull requests across public repos,
+//   1. "Recently shipped": the latest merged pull request or commit to the
+//      default branch from each of the most recently active public repos,
 //      written between the recently-shipped markers in README.md.
 //   2. badges/loot-specs.json: a shields.io endpoint badge counting
 //      loot-singles-fulfillment features whose tasks.md is fully checked off.
@@ -39,26 +40,58 @@ const escape = (s) => s.replace(/[\\`*_[\]<>|]/g, (c) => `\\${c}`);
 const month = (iso) =>
   new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
 
-export async function recentlyShipped() {
-  // Search cannot sort by merge date, so fetch a page and sort here.
+// A squash merge lands as "Title (#12)"; that change is already listed as its PR.
+const viaPullRequest = (subject) => /\(#\d+\)$/.test(subject);
+
+// The newest change from each repo, newest repos first, so one busy repo can't
+// take every slot. A PR wins a tie with a commit from the same repo.
+export function pickShipped(changes, count = SHIP_COUNT) {
+  const sorted = changes
+    .filter((c) => !SKIP_REPOS.has(c.repo))
+    .sort((a, b) => b.date.localeCompare(a.date) || (b.kind === "pr") - (a.kind === "pr"));
+  const seen = new Set();
+  return sorted.filter((c) => !seen.has(c.repo) && seen.add(c.repo)).slice(0, count);
+}
+
+async function mergedPullRequests() {
+  // Search cannot sort by merge date, so fetch a page and sort later.
   const q = encodeURIComponent(`author:${USER} is:pr is:merged is:public`);
   const { items } = await gh(`/search/issues?q=${q}&sort=updated&order=desc&per_page=50`);
-  const prs = items
+  return items
+    .filter((it) => it.pull_request?.merged_at)
     .map((it) => ({
+      kind: "pr",
       repo: it.repository_url.replace("https://api.github.com/repos/", ""),
-      number: it.number,
       title: it.title.trim(),
       url: it.html_url,
-      merged: it.pull_request?.merged_at,
+      date: new Date(it.pull_request.merged_at).toISOString(),
+    }));
+}
+
+// Commit search only covers default branches, so this finds work pushed
+// straight to main in repos that don't use PRs.
+async function directCommits() {
+  const q = encodeURIComponent(`author:${USER} is:public merge:false`);
+  const { items } = await gh(`/search/commits?q=${q}&sort=author-date&order=desc&per_page=50`);
+  return items
+    .map((it) => ({
+      kind: "commit",
+      repo: it.repository.full_name,
+      title: it.commit.message.split("\n")[0].trim(),
+      url: it.html_url,
+      date: new Date(it.commit.author.date).toISOString(),
     }))
-    .filter((pr) => pr.merged && !SKIP_REPOS.has(pr.repo))
-    .sort((a, b) => b.merged.localeCompare(a.merged))
-    .slice(0, SHIP_COUNT);
-  if (prs.length === 0) return "_Nothing merged recently._";
-  return prs
-    .map((pr) => {
-      const name = pr.repo.split("/")[1];
-      return `- **${name}** · [${escape(pr.title)}](${pr.url}) · ${month(pr.merged)}`;
+    .filter((c) => !viaPullRequest(c.title));
+}
+
+export async function recentlyShipped() {
+  const [prs, commits] = await Promise.all([mergedPullRequests(), directCommits()]);
+  const shipped = pickShipped([...prs, ...commits]);
+  if (shipped.length === 0) return "_Nothing shipped recently._";
+  return shipped
+    .map((c) => {
+      const name = c.repo.split("/")[1];
+      return `- **${name}** · [${escape(c.title)}](${c.url}) · ${month(c.date)}`;
     })
     .join("\n");
 }
