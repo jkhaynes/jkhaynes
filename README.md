@@ -120,11 +120,11 @@ A Go CLI that keeps prices current for an 8,800-card Pokémon collection on a 1,
 ## <img src="https://img.shields.io/badge/-F2CDCD?style=flat-square" height="14" alt="" /> Recently shipped
 
 <!-- recently-shipped:start -->
+- **ai-agent-skills** · [Add record-demo skill](https://github.com/jkhaynes/ai-agent-skills/pull/7) · Oct 5
+- **ten-or-not** · [test: add no-card, cropped and small bad photos](https://github.com/jkhaynes/ten-or-not/commit/68a19a638714c24695f5179c620e1ff78295f13b) · Oct 2
+- **comfy-terminal-window** · [Rename sakura to comfy and add Claude Code notifications](https://github.com/jkhaynes/comfy-terminal-window/commit/60f12a7d50a6a79d53712aba5332dcec984b6672) · Oct 1
 - **pricewatch** · [Overrides can route one print to another set (Destined Rivals prerelease)](https://github.com/jkhaynes/pricewatch/pull/11) · Sep 30
-- **pricewatch** · [Price stamped promo prints: Prerelease, Staff, Worlds, 30th Anniversary (DD-17)](https://github.com/jkhaynes/pricewatch/pull/10) · Sep 29
-- **pricewatch** · [Price ball-pattern, Energy and Rocket reverse holos (FR-17)](https://github.com/jkhaynes/pricewatch/pull/9) · Sep 28
-- **pricewatch** · [pricewatch mcp: one database copy per server, and a failed swap degrades to stale](https://github.com/jkhaynes/pricewatch/pull/8) · Sep 28
-- **pricewatch** · [pricewatch mcp: ask Claude about the collection (FR-16)](https://github.com/jkhaynes/pricewatch/pull/7) · Sep 27
+- **PortfolioWebsite** · [Update the downloadable resume to v2](https://github.com/jkhaynes/PortfolioWebsite/pull/39) · Sep 27
 <!-- recently-shipped:end -->
 
 <br />
