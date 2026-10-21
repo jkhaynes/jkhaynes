@@ -120,10 +120,10 @@ A Go CLI that keeps prices current for an 8,800-card Pokémon collection on a 1,
 ## <img src="https://img.shields.io/badge/-F2CDCD?style=flat-square" height="14" alt="" /> Recently shipped
 
 <!-- recently-shipped:start -->
+- **PortfolioWebsite** · [Redesign the homepage hero (024)](https://github.com/jkhaynes/PortfolioWebsite/pull/45) · Oct 21
 - **loot-singles-fulfillment** · [feat(021): local mock orders and order deletion](https://github.com/jkhaynes/loot-singles-fulfillment/pull/41) · Oct 11
 - **ai-agent-skills** · [Drop job-progress finish toasts and fix its type-check and pane tests](https://github.com/jkhaynes/ai-agent-skills/pull/11) · Oct 11
 - **PokeJudge** · [Record the top-5 and top-10 evaluate runs and keep Jev on by default](https://github.com/jkhaynes/PokeJudge/pull/17) · Oct 10
-- **PortfolioWebsite** · [Rename the membership case study to RoleSync with new screenshots](https://github.com/jkhaynes/PortfolioWebsite/pull/42) · Oct 7
 - **pricewatch** · [priority: check cards under $1 every 14 days](https://github.com/jkhaynes/pricewatch/pull/12) · Oct 6
 <!-- recently-shipped:end -->
 
