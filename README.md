@@ -120,11 +120,11 @@ A Go CLI that keeps prices current for an 8,800-card Pokémon collection on a 1,
 ## <img src="https://img.shields.io/badge/-F2CDCD?style=flat-square" height="14" alt="" /> Recently shipped
 
 <!-- recently-shipped:start -->
+- **claude-deck** · [docs: request key shows session, tool and command](https://github.com/jkhaynes/claude-deck/commit/31c9eb850928640fa039d34f856f1b45f21573d2) · Nov 18
+- **ai-agent-skills** · [Add catppuccin mod, installable via marketplace](https://github.com/jkhaynes/ai-agent-skills/pull/13) · Nov 18
 - **project-template** · [chore(review): have reviewer-smells search the repo for duplicated code](https://github.com/jkhaynes/project-template/pull/8) · Nov 15
 - **PortfolioWebsite** · [chore(dashboard): one-shot --json, --ci-json and --file modes](https://github.com/jkhaynes/PortfolioWebsite/pull/46) · Nov 15
-- **ai-agent-skills** · [Add review-board mod](https://github.com/jkhaynes/ai-agent-skills/pull/12) · Nov 15
 - **loot-singles-fulfillment** · [feat(021): local mock orders and order deletion](https://github.com/jkhaynes/loot-singles-fulfillment/pull/41) · Oct 11
-- **PokeJudge** · [Record the top-5 and top-10 evaluate runs and keep Jev on by default](https://github.com/jkhaynes/PokeJudge/pull/17) · Oct 10
 <!-- recently-shipped:end -->
 
 <br />
